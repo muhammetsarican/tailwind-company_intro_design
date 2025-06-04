@@ -1,0 +1,60 @@
+{
+        "palette": {
+                "mode": {
+                        "light": {
+                                "primary": "#9b2fae",
+                                "secondary": "#b0213c",
+                                "accent": "#54182d",
+                                "background": "#f8f4fa",
+                                "surface": "#ffffff",
+                                "hoverSurface": "#f0e5f5",
+                                "text": {
+                                        "primary": "#2a0034",
+                                        "secondary": "#6d4b7f",
+                                        "disabled": "#bfaec9"
+                                },
+                                "button": {
+                                        "primary": {
+                                                "background": "#9b2fae",
+                                                "text": "#ffffff"
+                                        },
+                                        "secondary": {
+                                                "background": "#b0213c",
+                                                "text": "#ffffff"
+                                        },
+                                        "outline": {
+                                                "background": "#ffffff",
+                                                "text": "#9b2fae"
+                                        }
+                                }
+                        },
+                        "dark": {
+                                "primary": "#b56cd9",
+                                "secondary": "#e35070",
+                                "accent": "#a05c7a",
+                                "background": "#1a0d20",
+                                "surface": "#2b1e33",
+                                "hoverSurface": "#3a2943",
+                                "text": {
+                                        "primary": "#f9eaff",
+                                        "secondary": "#caaadd",
+                                        "disabled": "#7b638c"
+                                },
+                                "button": {
+                                        "primary": {
+                                                "background": "#b56cd9",
+                                                "text": "#1a0d20"
+                                        },
+                                        "secondary": {
+                                                "background": "#e35070",
+                                                "text": "#1a0d20"
+                                        },
+                                        "outline": {
+                                                "background": "#2b1e33",
+                                                "text": "#b56cd9"
+                                        }
+                                }
+                        }
+                }
+        }
+}
